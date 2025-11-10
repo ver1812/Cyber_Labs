@@ -40,6 +40,7 @@ https://www.youtube.com/watch?v=V6zoerB2zs4
 
 
 Step 5: Inside the VM. run 
+
 sudo apt update & sudo apt -y upgrade
 
 
