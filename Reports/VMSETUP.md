@@ -47,6 +47,7 @@ Step 6: Get bidirectional Copy working
 In VM settings of UTM turn it on select spice as option. 
 
 In Kali VM terminal run following:
+
 sudo apt install -y spice-vdagent spice-webdavd
 
 
