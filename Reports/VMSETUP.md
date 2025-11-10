@@ -48,5 +48,8 @@ Reboot
 Step 8:
 As UTM doesnt supoort snapshots. Create an copy of .utm file.
 
-
-
+# ScreenShots
+![alt text](../Images/Kali_Video_error.png)
+# References
+Kali Linux ARM Documentation – https://www.kali.org/docs/arm/
+UTM Official Documentation – https://docs.getutm.app
